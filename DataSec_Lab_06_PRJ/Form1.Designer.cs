@@ -518,10 +518,10 @@
             this.authorLinkLabel.AutoSize = true;
             this.authorLinkLabel.Location = new System.Drawing.Point(419, 9);
             this.authorLinkLabel.Name = "authorLinkLabel";
-            this.authorLinkLabel.Size = new System.Drawing.Size(68, 13);
+            this.authorLinkLabel.Size = new System.Drawing.Size(59, 13);
             this.authorLinkLabel.TabIndex = 5;
             this.authorLinkLabel.TabStop = true;
-            this.authorLinkLabel.Text = "About author";
+            this.authorLinkLabel.Text = "Author Info";
             this.authorLinkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.authorLinkLabel_LinkClicked);
             // 
             // Form1
