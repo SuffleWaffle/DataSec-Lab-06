@@ -271,9 +271,9 @@ namespace DataSec_Lab_06_PRJ
             MessageBox.Show(
                 "KPI - REF - 2023" + "\r\n" + "\r\n" +
                     "> Lecturer, Cand. Sc.:" + "\r\n" +
-                    "Denys Navrotskyi " + "\r\n" + "\r\n" +
+                    "> Denys Navrotskyi " + "\r\n" + "\r\n" +
                     "> Master Student, RE-21mn:" + "\r\n" +
-                    "Danil Yevdokimov",
+                    "> Danil Yevdokimov",
                 "Author info:",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information
